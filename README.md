@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/incloudhosting/LearnPipelines/_apis/build/status/SPMush.pipelines-java?branchName=master)](https://dev.azure.com/incloudhosting/LearnPipelines/_build/latest?definitionId=7&branchName=master)
 [![Build Status](https://dev.azure.com/incloudhosting/PipelineProject/_apis/build/status/SPMush.pipelines-java?branchName=master)](https://dev.azure.com/incloudhosting/PipelineProject/_build/latest?definitionId=3&branchName=master)
 # Contributing
 
